@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ita-chsharp-training", "ita-chsharp-training.csproj", "{1FD5B032-213B-4EE8-848C-82A000E39F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ite-chsharp-training-tests", "ite-chsharp-training-tests\ite-chsharp-training-tests.csproj", "{675A4B53-F45C-4ADB-A8AD-A48D9C5E483E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ita-chsharp-training-tests", "ite-chsharp-training-tests\ita-chsharp-training-tests.csproj", "{675A4B53-F45C-4ADB-A8AD-A48D9C5E483E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ita-csharp-training-console", "..\ita-csharp-training-console\ita-csharp-training-console.csproj", "{1DA394AA-CE93-4168-9403-9AB32D696F8B}"
 EndProject
