@@ -26,14 +26,13 @@ namespace ite_chsharp_training_tests
         {
             //Arrange
             string result;
-            _classUnderTest.Iterations = 1;
 
 
             //Act
-            result = _classUnderTest.ExecuteFizzBuzz();
 
-            Assert.IsNotNull(result);
-            Assert.IsTrue(result.Contains("FizzBuzz"));
+
+            //Assert
+
         }
     }
 }
