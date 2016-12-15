@@ -1,6 +1,6 @@
-# ITA JavaScript Training
+# ITA C# Training
 
-## Tic Tac Toe JavaScript Exercises for ITA staff
+## Tic Tac Toe C# Exercises for ITA staff
 
 - Fizz Buzz: Basic structure and tests
   - Test Conditions:
