@@ -24,14 +24,7 @@ namespace ite_chsharp_training_tests
         [TestMethod]
         public void The_ExecuteFizzBuzz_Method_Executes_Without_Exception()
         {
-            //Arrange
-            string result;
 
-
-            //Act
-
-
-            //Assert
 
         }
     }
