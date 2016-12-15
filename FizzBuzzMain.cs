@@ -16,10 +16,34 @@ namespace ita_chsharp_training
            
 
         }
-        public string ExecuteFizzBuzz()
+        public string ExecuteFizzBuzz(int num)
         {
+            Boolean div5 = (num % 5 == 0);
+            Boolean div3 = (num % 3 == 0);
 
-            return string.Empty;
+            if (div5 && div3)
+            {
+                return "FizzBuzz";
+
+            }
+            else if (div5)
+            {
+                return "Buzz";
+
+            }
+            else if (div3)
+            {
+                return "Fizz";
+
+            }
+            else
+            {
+                return num.ToString();
+            }
+           
         }
+
+        
+        
     }
 }
